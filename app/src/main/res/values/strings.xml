@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rachel - CofeeApp 02</string>
+    <string name="name_field"></string>
+    <string name="toppings">Toppings</string>
+    <string name="title">Your Order Details</string>
+    <string name="diplayMessage"></string>
+    <string name="emailButton">SEND EMAIL</string>
+    <string name="saveData">SAVE DATA</string>
+    <string name="salesReport">SALES REPORT</string>
+    <string name="reOrder">NEW ORDER</string>
+</resources>
